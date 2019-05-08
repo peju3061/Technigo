@@ -1,0 +1,23 @@
+/* Example styling of a h1 element */
+h1 {background-color: yellow;
+  color: pink;
+  font-family: monospace;
+}
+h2 {color: yellow;
+  font-family: monospace;
+}
+
+p {color: blue;
+  font-family: sans-serif;
+}
+
+body {background-color: pink;
+}
+
+#sc {color: yellow;
+  font-family: monospace;
+}
+
+#fi {color: yellow;
+  font-family: sans-serif;
+}
